@@ -132,8 +132,6 @@ for i in range(1, n + 1):
     ax.get_yaxis().set_visible(False)
 plt.show()
 
-
-p
 ```
 
 ## OUTPUT
